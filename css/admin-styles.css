@@ -1,0 +1,14 @@
+.wld-settings .form-table th {
+    display: none !important;
+}
+.woo_loyalty_discounts_settings_box {
+    padding: 20px !important;
+    border-radius: 10px;
+    margin: 0 0 10px 0;
+    background: #fff;
+    display: inline-block;
+    box-shadow: 0 0 10px 0 rgba(0,0,0,.1);
+}
+.wld_discount_option {
+    font-size: 18px !important;
+}
